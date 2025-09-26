@@ -1,1 +1,1 @@
-HTMLFormControlsCollection.log("push file into github");
+console.log("push file into github");
